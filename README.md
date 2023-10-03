@@ -47,8 +47,10 @@
 
 ## Output:
 
-### Name:
-### Register Number:
+![image](https://github.com/PreethiArunachalam/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/120115840/13936f0a-87a5-4d18-a6c6-158bd50a93b9)
+
+### Name:PREETHI A A
+### Register Number:212222110035
 
 ## RESULT:
 ###   Thus a prototype of the given part model is developed using 3D Printer.
