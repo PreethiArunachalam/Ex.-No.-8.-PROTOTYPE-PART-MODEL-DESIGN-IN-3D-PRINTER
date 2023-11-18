@@ -47,7 +47,9 @@
 
 ## Output:
 
-![image](https://github.com/PreethiArunachalam/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/120115840/13936f0a-87a5-4d18-a6c6-158bd50a93b9)
+![image](https://github.com/PreethiArunachalam/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/120115840/cdff9b57-a8ec-49ae-92b5-e1e629cb3f69)
+
+![image](https://github.com/PreethiArunachalam/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/120115840/9d79c7fd-14c9-4a3b-9f41-dc3505ee8e4e)
 
 ### Name:PREETHI A A
 ### Register Number:212222110035
